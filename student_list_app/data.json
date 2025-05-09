@@ -1,0 +1,21 @@
+{
+  "inscription": [  
+    {
+      "id": 1,
+      "nom": "Diop",
+      "prenom": "Papa Mbaye",
+      "classe": "L3-GLRSA",
+      "matricule": "MAE001",
+      "email": "pape@gmail.com"
+    },
+    {
+      "id": 2,
+      "nom": "Fall",
+      "prenom": "Ousmane",
+      "classe": "L2-GLRSB",
+      "matricule": "INFO002",
+      "email": "ousmane@example.com"
+    }
+  ]
+
+}
